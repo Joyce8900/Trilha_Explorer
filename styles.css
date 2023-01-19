@@ -58,7 +58,8 @@ button{
 }
 
 .day div{
-    margin-bottom: 8px;font-family: 'Roboto Mono';
+    margin-bottom: 8px;
+    font-family: 'Roboto Mono';
     font-size: 20px;
     line-height: 125%;
       
@@ -66,7 +67,7 @@ button{
     text-align: center;
 }
 
-form{
+#form-habits{
     display: flex;
 
     padding: 0 48px;
